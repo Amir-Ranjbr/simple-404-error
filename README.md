@@ -1,4 +1,4 @@
-# simple-404-error
+# simple 404 error
 ![Thumbnail](simple-404-preview-1.png)
 <br>
 <br>
